@@ -50,20 +50,6 @@ void AWorldSchematic::InteractWithObject_Implementation(ACharacter* PickingUpCha
 		return;
 	}
 
-//TODO: Implement an inventory
-	//USchematicInventoryComponent* inventory = 
-	//	Cast<USchematicInventoryComponent>(
-	//		PickingUpCharacter->GetComponentByClass(USchematicInventoryComponent::StaticClass()));
-	//if (inventory == nullptr)
-	//{
-	//	UE_LOG(LogWeaponSchematic, Warning, TEXT("AWorldSchematic - PickupSchematic - The SchematicInventoryComponent was null and may not be attached to the character "));
-	//}
-	//else
-	//{
-	//	//Add it to the inventory component
-	//	UE_LOG(LogWeaponSchematic, Log, TEXT("We were able to Pickup the pickup and find the Inventory on the player"));
-	//}
-
 	//Get all child actors in the Character that is picking this up
 	TArray<AActor*> pcChildActors;
 	PickingUpCharacter->GetAllChildActors(pcChildActors);
