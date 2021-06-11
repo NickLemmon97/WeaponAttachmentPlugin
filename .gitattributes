@@ -1,0 +1,7 @@
+Content/UltraDynamicSky/Textures/clouds_voronoi.uasset filter=lfs diff=lfs merge=lfs -text
+Content/UltraDynamicSky/Textures/clouds_classic.uasset filter=lfs diff=lfs merge=lfs -text
+Content/UltraDynamicSky/Textures/blur_clouds.uasset filter=lfs diff=lfs merge=lfs -text
+Content/3D_Art/Architecture/Trims/Trims/Trim_3_Mat_Normal.uasset filter=lfs diff=lfs merge=lfs -text
+Content/3D_Art/Architecture/Trims/Trims/Trim_4_Mat_BaseColor.uasset filter=lfs diff=lfs merge=lfs -text
+Content/3D_Art/Architecture/Trims/Trims/Trim_4_Mat_Normal.uasset filter=lfs diff=lfs merge=lfs -text
+Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset filter=lfs diff=lfs merge=lfs -text
