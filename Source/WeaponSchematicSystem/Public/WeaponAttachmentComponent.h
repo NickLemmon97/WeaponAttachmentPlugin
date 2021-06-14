@@ -13,7 +13,7 @@
 */
 
 UCLASS( ClassGroup=(Custom), meta=(BlueprintSpawnableComponent) )
-class BLACKEYEGALAXY_API UWeaponAttachmentComponent : public UActorComponent
+class WEAPONSCHEMATICSYSTEM_API UWeaponAttachmentComponent : public UActorComponent
 {
 	GENERATED_BODY()
 

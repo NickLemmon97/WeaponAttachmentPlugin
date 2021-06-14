@@ -10,7 +10,7 @@
  * 
  */
 UCLASS()
-class BLACKEYEGALAXY_API ABlueprintableBaseSchematic : public ABaseSchematic
+class WEAPONSCHEMATICSYSTEM_API ABlueprintableBaseSchematic : public ABaseSchematic
 {
 	GENERATED_BODY()
 

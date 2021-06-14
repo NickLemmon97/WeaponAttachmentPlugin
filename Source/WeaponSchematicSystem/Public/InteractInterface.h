@@ -5,8 +5,9 @@
 #include "GameFramework/Actor.h"
 #include "InteractInterface.generated.h"
 
+
 UINTERFACE(Blueprintable)
-class BLACKEYEGALAXY_API UInteractInterface : public UInterface
+class WEAPONSCHEMATICSYSTEM_API UInteractInterface : public UInterface
 {
 	GENERATED_BODY()
 };

@@ -1,7 +1,7 @@
 // Black Eye Galaxy Mission - C++ by Nick
 
-#include "../WeaponAttachmentComponent.h"
-#include "../BaseSchematic.h"
+#include "WeaponAttachmentComponent.h"
+#include "BaseSchematic.h"
 
 // Sets default values for this component's properties
 UWeaponAttachmentComponent::UWeaponAttachmentComponent()

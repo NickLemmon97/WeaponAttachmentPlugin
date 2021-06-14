@@ -2,7 +2,6 @@
 
 #include "WorldSchematic.h"
 #include "BaseSchematic.h"
-#include "SchematicInventoryComponent.h"
 #include "WeaponAttachmentComponent.h"
 
 #include "GameFramework/Character.h"

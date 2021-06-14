@@ -1,6 +1,6 @@
 // Fill out your copyright notice in the Description page of Project Settings.
 
-#include "../BlueprintableBaseSchematic.h"
+#include "BlueprintableBaseSchematic.h"
 
 void ABlueprintableBaseSchematic::OnBeginFire()
 {

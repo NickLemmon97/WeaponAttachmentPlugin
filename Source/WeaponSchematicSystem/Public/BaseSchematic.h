@@ -8,7 +8,7 @@
 #include "BaseSchematic.generated.h"
 
 UCLASS()
-class BLACKEYEGALAXY_API ABaseSchematic : public AActor
+class WEAPONSCHEMATICSYSTEM_API ABaseSchematic : public AActor
 {
 	GENERATED_BODY()
 	

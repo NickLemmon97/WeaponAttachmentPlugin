@@ -1,7 +1,7 @@
 // Black Eye Galaxy Mission - C++ by Nick
 
-#include "../BaseSchematic.h"
-#include "../WeaponAttachmentComponent.h"
+#include "BaseSchematic.h"
+#include "WeaponAttachmentComponent.h"
 
 #include "Components/StaticMeshComponent.h"
 

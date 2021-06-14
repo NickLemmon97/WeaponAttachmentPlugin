@@ -14,7 +14,7 @@
  *  It contains a Pickup Function and the schematic
  */
 UCLASS()
-class BLACKEYEGALAXY_API AWorldSchematic : public AActor, public IInteractInterface
+class WEAPONSCHEMATICSYSTEM_API AWorldSchematic : public AActor, public IInteractInterface
 {
 	GENERATED_BODY()
 	
